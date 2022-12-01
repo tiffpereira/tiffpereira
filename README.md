@@ -1,26 +1,24 @@
+![Hello World!](tiffpereira/assets/giphy.gif)
 
-
-Hi 👋 , I’m Tiffany Pereira!
-
-Heres a little bit about me:
-
+Hi 👋, I’m Tiffany!
+```js
 const Tiffany = {
-  pronouns: "she" | "her",
-  languages: [Javascript, HTML5, CSS3, React, PostgreSQL, Python, Django, Node.js, Express.js, MongoDB, Typescript, MongoDB],
-  tools: [Figma, Trello, ],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  nickname: "tiff"
+  aboutMeAbout: ["photography", "acaí bowls", "tech", "web design"],
+  technologies: {
+        languages: { 
+          "Javascript", "HTML5", "CSS3", "SQL", "Python", "Typescript", "Mongoose"
+        },
+        frameworks: {
+          "React", "Vue.js", "Express.js", "Node.js", "Django"},
+        databases: {
+          "PostgreSQL", "MongoBD"
+        }
+  }
+  tools: ["Figma", "Dribbble", "Trello"],
+  funFact: "There are two ways to write bug free code, only the third one works"
 }
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
+```
 <!---
 tiffpereira/tiffpereira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
