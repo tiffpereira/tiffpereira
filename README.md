@@ -1,9 +1,11 @@
-![Hello World!](tiffpereira/assets/giphy.gif)
+<!-- <div id="header" align="center"> -->
+  <img src="./assets/helloworld.gif"/>
+<!-- </div> -->
 
-Hi 👋, I’m Tiffany!
+### Hi 👋, I’m Tiffany!
 ```js
 const Tiffany = {
-  nickname: "tiff"
+  nickname: "tiff",
   aboutMeAbout: ["photography", "acaí bowls", "tech", "web design"],
   technologies: {
         languages: { 
@@ -14,12 +16,8 @@ const Tiffany = {
         databases: {
           "PostgreSQL", "MongoBD"
         }
-  }
+  },
   tools: ["Figma", "Dribbble", "Trello"],
   funFact: "There are two ways to write bug free code, only the third one works"
 }
 ```
-<!---
-tiffpereira/tiffpereira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
