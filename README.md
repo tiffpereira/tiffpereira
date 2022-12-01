@@ -22,10 +22,10 @@ const Tiffany = {
   funFact: "There are two ways to write bug free code, only the third one works"
 }
 ```
-👥 Connect with me!
+##### 👥 Connect with me!
 [![LinkedIn](https://img.shields.io/badge/-Tiffany%20Pereira-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/tiffanympereira/)
 
-🧰 Additional Tools Used 
+##### 🧰 Additional Tools Used 
 [![CSS3](https://img.shields.io/badge/-CSS-239120?style=for-the-badge&logo=css3&logoColor=FFFFFF)](https://www.css.com)
 [![Dribbble](https://img.shields.io/badge/-Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=FFFFFF)](https://www.dribbble.com)
 [![Express](https://img.shields.io/badge/-Express.js-404D59?style=for-the-badge&logo=express.js&logoColor=FFFFFF)](https://expressjs.com/)
