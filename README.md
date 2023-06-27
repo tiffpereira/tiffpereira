@@ -30,8 +30,6 @@ const Tiffany = {
 2. [Codr](https://github.com/RTSY-P3/Frontend) - A social media platform designed for coders to share and discuss their coding projects, allowing for interaction through posts and comments. Built with React and postgreSQL.
 3. [TastyTable](https://github.com/tiffpereira/Project_1_tasty_table) - Recipe search engine with capabilities to search for specific dishes, browse categories of cuisine, or get a random recipe suggestion. Responsive front end with mobile first approach, built with HTML, CSS, JavaScript, and TheMealDB API.
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=tiffpereira)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 👥 Connect with me!
 [![LinkedIn](https://img.shields.io/badge/-Tiffany%20Pereira-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/tiffanympereira/)
 
