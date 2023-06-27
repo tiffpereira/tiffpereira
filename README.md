@@ -2,30 +2,39 @@
   <img src="./assets/helloworld.gif"/>
 <!-- </div> -->
 
-### Hello World 👋, I’m Tiffany 👩🏻‍💻!
+## Hello World 👋, I’m Tiffany 👩🏻‍💻!
 ```js
 const Tiffany = {
   nickname: "tiff",
   aboutMeAbout: ["photography", "acaí bowls", "backend", "react", "web design"],
   technologies: {
         languages: { 
-          "Javascript", "HTML5", "CSS3", "SQL", "Python", "Typescript", "Mongoose"
+          "Javascript", "HTML5", "CSS3", "SQL", "Python", "Typescript"
         },
         frameworks: {
-          "React", "Vue.js", "Express.js", "Node.js", "Django"},
+          "React", "Vite", "Vue.js", "Express.js", "Node.js", "Django", "Mongoose"
+        },
         databases: {
-          "PostgreSQL", "MongoBD"
+          "PostgreSQL", "MongoDB"
         }
   },
-  tools: ["Figma", "Dribbble", "Trello"],
-  currentFocus: "Creating BlackBox Studio's website using react",
+  tools: ["Figma", "Dribbble", "Behance", "Trello"],
+  versionControl: ["Git", "Github"],
+  other: ["Bootstrap", "RESTful APIs", "Google Oauth 2.0"],
+  currentFocus: "Building MealMind with Vite & MongoDB",
   funFact: "There are two ways to write bug free code, only the third one works"
 }
 ```
-#### 👥 Connect with me!
+## Projects 
+1. [BlackBox Studios](https://github.com/tiffpereira/BlackBox-Studios) - An e-commerce platform for a multimedia company specializing in music production and photography, built using React, Tailwind CSS, and integrated with Acuity for scheduling services.
+2. [Codr](https://github.com/RTSY-P3/Frontend) - A social media platform designed for coders to share and discuss their coding projects, allowing for interaction through likes and comments. Built with React and postgreSQL.
+3. [TastyTable](https://github.com/tiffpereira/Project_1_tasty_table) - Recipe search engine with capabilities to search for specific dishes, browse categories of cuisine, or get a random recipe suggestion. Responsive front end with mobile first approach, built with HTML, CSS, JavaScript, and TheMealDB API.
+
+
+### 👥 Connect with me!
 [![LinkedIn](https://img.shields.io/badge/-Tiffany%20Pereira-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/tiffanympereira/)
 
-#### 🧰 Additional Tools Used 
+### 🧰 Additional Tools Used 
 [![CSS3](https://img.shields.io/badge/-CSS-239120?style=for-the-badge&logo=css3&logoColor=FFFFFF)](https://www.css.com)
 [![Dribbble](https://img.shields.io/badge/-Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=FFFFFF)](https://www.dribbble.com)
 [![Express](https://img.shields.io/badge/-Express.js-404D59?style=for-the-badge&logo=express.js&logoColor=FFFFFF)](https://expressjs.com/)
