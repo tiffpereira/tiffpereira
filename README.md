@@ -27,7 +27,7 @@ const Tiffany = {
 ```
 ## Projects 
 1. [BlackBox Studios](https://github.com/tiffpereira/BlackBox-Studios) - An e-commerce platform for a multimedia company specializing in music production and photography, built using React, Tailwind CSS, and integrated with Acuity for scheduling services.
-2. [Codr](https://github.com/RTSY-P3/Frontend) - A social media platform designed for coders to share and discuss their coding projects, allowing for interaction through likes and comments. Built with React and postgreSQL.
+2. [Codr](https://github.com/RTSY-P3/Frontend) - A social media platform designed for coders to share and discuss their coding projects, allowing for interaction through posts and comments. Built with React and postgreSQL.
 3. [TastyTable](https://github.com/tiffpereira/Project_1_tasty_table) - Recipe search engine with capabilities to search for specific dishes, browse categories of cuisine, or get a random recipe suggestion. Responsive front end with mobile first approach, built with HTML, CSS, JavaScript, and TheMealDB API.
 
 
